@@ -13,3 +13,6 @@ Languages that i know: Python, Javascript, C++, HTML, CSS
 I know Bootstrap 4, Django, Jquery.
 
 My favourite IDEs are Pycharm, VS code
+
+## **STATS**
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FredericoFloryan)](https://github.com/anuraghazra/github-readme-stats)
