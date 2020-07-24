@@ -1,4 +1,4 @@
-## PROFILE
+# PROFILE
 Hey wassup there ! i'm Frederico Floryan, you can call me Rico.
 I'm from Indonesia and currently am 16 years old, i started programming when i was 12 years old.
 My first language is HTML, i learnt it on school btw.
